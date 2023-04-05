@@ -43,7 +43,6 @@ android_library {
         "SettingsLibCollapsingToolbarBaseActivity",
         "subsampling-scale-image-view",
         "SystemUISharedLib",
-        "SystemUICustomizationLib",
         "volley",
         "SettingsLibActivityEmbedding",
     ],
